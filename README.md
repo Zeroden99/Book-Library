@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Exchange of books
 
-Things you may want to cover:
+Ability to read books
 
-* Ruby version
+Information about them
 
-* System dependencies
+Use gem for upload avatar: paperclip.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Use gem for upload photos: carrierwave.
